@@ -25,10 +25,9 @@ namespace HotelsViewer
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("<html><h1>Hello World</h1></html>");
-            });
+            //Uncomment this is you want to use static files ! 
+            //app.UseStaticFiles();
+
         }
     }
 }
