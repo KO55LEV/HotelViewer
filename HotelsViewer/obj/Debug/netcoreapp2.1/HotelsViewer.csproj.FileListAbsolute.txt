@@ -1,0 +1,14 @@
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.deps.json
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.runtimeconfig.json
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.runtimeconfig.dev.json
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.dll
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.pdb
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.csprojResolveAssemblyReference.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.csproj.CoreCompileInputs.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorAssemblyInfo.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorAssemblyInfo.cs
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.AssemblyInfoInputs.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.AssemblyInfo.cs
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorTargetAssemblyInfo.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.dll
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.pdb
