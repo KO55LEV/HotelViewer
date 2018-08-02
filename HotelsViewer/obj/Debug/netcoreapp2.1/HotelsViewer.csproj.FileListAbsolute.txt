@@ -12,3 +12,12 @@ C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsView
 C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorTargetAssemblyInfo.cache
 C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.dll
 C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.pdb
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.Views.dll
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\bin\Debug\netcoreapp2.1\HotelsViewer.Views.pdb
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.TagHelpers.input.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.TagHelpers.output.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorCoreGenerate.cache
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\Razor\Views\App\Index.g.cshtml.cs
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.RazorTargetAssemblyInfo.cs
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.Views.pdb
+C:\Dev\TestProjects\HotelsViewer\HotelsViewer\obj\Debug\netcoreapp2.1\HotelsViewer.csproj.CopyComplete
