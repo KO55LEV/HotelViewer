@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionStrings": { "SqlConnection": "server=(localdb)\\ProjectsV13;Database=HotelsViewer;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;" } 
+}

@@ -19,6 +19,17 @@ namespace HotelsViewer
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                //added to support EF
+                .ConfigureAppConfiguration(SetupCofiguration)
                 .UseStartup<Startup>();
+
+        private static void SetupCofiguration(WebHostBuilderContext ctx, IConfigurationBuilder builder)
+        {
+            //Remove default configuration options
+            builder.Sources.Clear();
+
+            builder.AddJsonFile("config.json", false, true)
+                .AddEnvironmentVariables();
+        }
     }
 }
