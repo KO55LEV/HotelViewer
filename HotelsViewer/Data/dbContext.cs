@@ -9,6 +9,10 @@ namespace HotelsViewer.Data
 {
     public class HotelsViewerDbContext : DbContext
     {
+        public HotelsViewerDbContext(DbContextOptions<HotelsViewerDbContext> options) : base(options)
+        {
+        }
+
         public DbSet<Hotel> Hotels { get; set; }
     }
 }
