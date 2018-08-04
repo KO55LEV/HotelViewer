@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id": "1",
+    "Name": "Test 1",
+    "Description": "description 1",
+    "Price": "85",
+    "Rating": "5",
+    "IsPublished": true,
+    "Created": "2018-01-01" 
+  },
+  {
+    "id": "2",
+    "Name": "Test 2",
+    "Description": "description 2",
+    "Price": "90",
+    "Rating": "5",
+    "IsPublished": true,
+    "Created": "2018-01-01" 
+  }
+]

@@ -13,7 +13,18 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#line 3 "C:\Dev\TestProjects\HotelsViewer\HotelsViewer\Views\Shared\_ViewImports.cshtml"
+using HotelsViewer.Controllers;
+
+#line default
+#line hidden
+#line 5 "C:\Dev\TestProjects\HotelsViewer\HotelsViewer\Views\Shared\_ViewImports.cshtml"
+using HotelsViewer.Data.Entities;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"376c41739ff9f454355e76c2e360a98b4d2d6d02", @"/Views/Shared/_Layout.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6cdc10a482295da05781e13c175ba56a1be432a", @"/Views/Shared/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -43,7 +54,7 @@ namespace AspNetCore
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "91a18c785cb04891af9b315af6100ca6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c819a923722486bb2649c3642250dd4", async() => {
                 BeginContext(31, 69, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <title>Hotel Viewer App</title>\r\n");
                 EndContext();
@@ -63,7 +74,7 @@ namespace AspNetCore
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(109, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "224ad4c0afcd477fae387cca669ab54e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ee86cee25fd4b42b3ad54cd810394f2", async() => {
                 BeginContext(115, 6, true);
                 WriteLiteral("\r\n  \r\n");
                 EndContext();

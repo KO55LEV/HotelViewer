@@ -1,8 +1,16 @@
-﻿@{
+﻿
+@model IEnumerable<HotelsViewer.Data.Entities.Hotel>
+
+@{
   ViewBag.Title = "Home Page";
 }
 
+<h1>Hotels @Model.Count()</h1>
 
 
-ABC <br>
-AAAAAAAAAAAA
+@foreach (var p in Model)
+{
+
+  <li>@p.Name</li>
+
+}

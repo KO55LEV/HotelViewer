@@ -30,6 +30,7 @@ namespace HotelsViewer
                 cfg => cfg.UseSqlServer(_config.GetConnectionString("SqlConnection"))
                 );
 
+            services.AddTransient<Seeder>();
             //to start MVC we need to do dependency injection 
             services.AddMvc();
         }
@@ -54,6 +55,18 @@ namespace HotelsViewer
                     //cfg.MapRoute("Foo", "users/manage", new {controller = "UserManagment", action = "Index"});
                 }
             );
+
+            if (env.IsDevelopment())
+            {
+                //seed the database 
+
+                using (var scope = app.ApplicationServices.CreateScope())
+                {
+                    var seeder = scope.ServiceProvider.GetService<Seeder>();
+                    seeder.Seed();
+                }
+
+            }
 
         }
     }
