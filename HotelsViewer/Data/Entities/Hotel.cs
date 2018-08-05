@@ -19,9 +19,9 @@ namespace HotelsViewer.Data.Entities
         public int Rating { get; set; }
         public bool IsPublished { get; set; }
         public DateTime Created { get; set; }
-        public HotelImage Images { get; set; }
-        public HotelFacility Facilities { get; set; }
-        public HotelSurrounding Surroundings { get; set; }
+        public List<HotelImage>  Images { get; set; }
+        public List<HotelFacility> Facilities { get; set; }
+        public List<HotelSurrounding> Surroundings { get; set; }
         
     }
 }

@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using HotelsViewer.Data.Entities;
+using HotelsViewer.Data.InitData.Entities;
 using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
 
@@ -11,13 +13,17 @@ namespace HotelsViewer.Data
 {
     public class Seeder
     {
-        public readonly HotelsViewerDbContext _ctx;
-        public readonly IHostingEnvironment _hosting;
-        public Seeder(HotelsViewerDbContext ctx, IHostingEnvironment hosting)
+        private readonly HotelsViewerDbContext _ctx;
+        private readonly IHostingEnvironment _hosting;
+        private readonly IMapper _mapper;
+        
+        public Seeder(HotelsViewerDbContext ctx, IHostingEnvironment hosting, IMapper mapper)
         {
             _ctx = ctx;
             _hosting = hosting;
+            _mapper = mapper;
         }
+
         public void Seed()
         {
             //ensure database is created
@@ -36,13 +42,17 @@ namespace HotelsViewer.Data
                     foreach (FileInfo file in jsonFiles)
                     {
                         var jsonHotel = File.ReadAllText(file.FullName);
-                        dynamic hotelObj = JsonConvert.DeserializeObject(jsonHotel);
+                        var hotelObj = JsonConvert.DeserializeObject<JsonHotel>(jsonHotel);
 
                         //use mapper to map this dynamic object to data objects 
+                        Hotel newHotel = _mapper.Map<Hotel>(hotelObj);
 
-
+                        //if we need to add few hotels use AddRange. 
                         //_ctx.Hotels.AddRange(hotels);
-                        //_ctx.SaveChanges();
+                        _ctx.Hotels.Add(newHotel);
+                        _ctx.SaveChanges();
+                        
+
                     }
 
                     

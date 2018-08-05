@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using HotelsViewer.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -30,6 +31,9 @@ namespace HotelsViewer
                 cfg => cfg.UseSqlServer(_config.GetConnectionString("SqlConnection"))
                 );
 
+            //Add automapper Dependecy
+            services.AddAutoMapper();
+
             services.AddTransient<Seeder>();
             //to start MVC we need to do dependency injection 
             services.AddMvc();
@@ -55,7 +59,7 @@ namespace HotelsViewer
                     //cfg.MapRoute("Foo", "users/manage", new {controller = "UserManagment", action = "Index"});
                 }
             );
-
+            
             if (env.IsDevelopment())
             {
                 //seed the database 
