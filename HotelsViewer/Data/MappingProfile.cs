@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using AutoMapper;
 using HotelsViewer.Core;
 using HotelsViewer.Data.Entities;
@@ -24,6 +25,7 @@ namespace HotelsViewer.Data
                 .ForMember(s => s.Distance, c => c.MapFrom(m => m.Distance));
             
             CreateMap<JsonHotel, Hotel>()
+                .ForMember(x => x.Id, opt => opt.Ignore())
                 .ForMember(x => x.Name, ex => ex.MapFrom(o => o.Name))
                 .ForMember(x => x.Town, ex => ex.MapFrom(o => o.Town))
                 .ForMember(x => x.OriginalUrl, ex => ex.MapFrom(o => o.OriginalUrl))
@@ -33,8 +35,8 @@ namespace HotelsViewer.Data
                 .ForMember(x => x.Facilities, ex => ex.MapFrom(o => o.Facilities))
                 .ForMember(x => x.Rating, ex => ex.MapFrom(o => Helper.RandomHotelRating()))
                 .ForMember(x => x.Price, ex => ex.MapFrom(o => Helper.RandomHotelPrice()))
+                .ForMember(x => x.Created, ex => ex.MapFrom(o => DateTime.Now))
                 .ForMember(x => x.Surroundings, ex => ex.MapFrom(o => o.Surroundings));
-
         }
 
     }

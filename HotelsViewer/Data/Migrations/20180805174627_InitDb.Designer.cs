@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HotelsViewer.Migrations
 {
     [DbContext(typeof(HotelsViewerDbContext))]
-    [Migration("20180804114113_InitDb")]
+    [Migration("20180805174627_InitDb")]
     partial class InitDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,10 +33,6 @@ namespace HotelsViewer.Migrations
 
                     b.Property<string>("Description");
 
-                    b.Property<int?>("FacilitiesId");
-
-                    b.Property<int?>("ImagesId");
-
                     b.Property<bool>("IsPublished");
 
                     b.Property<string>("Name");
@@ -48,17 +44,9 @@ namespace HotelsViewer.Migrations
 
                     b.Property<int>("Rating");
 
-                    b.Property<int?>("SurroundingsId");
-
                     b.Property<string>("Town");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("FacilitiesId");
-
-                    b.HasIndex("ImagesId");
-
-                    b.HasIndex("SurroundingsId");
 
                     b.ToTable("Hotels");
                 });
@@ -71,7 +59,11 @@ namespace HotelsViewer.Migrations
 
                     b.Property<string>("FacilityName");
 
+                    b.Property<int?>("HotelId");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("HotelId");
 
                     b.ToTable("HotelFacility");
                 });
@@ -84,9 +76,13 @@ namespace HotelsViewer.Migrations
 
                     b.Property<string>("Description");
 
+                    b.Property<int?>("HotelId");
+
                     b.Property<string>("Url");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("HotelId");
 
                     b.ToTable("HotelImage");
                 });
@@ -101,26 +97,36 @@ namespace HotelsViewer.Migrations
 
                     b.Property<string>("Distance");
 
+                    b.Property<int?>("HotelId");
+
                     b.Property<string>("Name");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("HotelId");
+
                     b.ToTable("HotelSurrounding");
                 });
 
-            modelBuilder.Entity("HotelsViewer.Data.Entities.Hotel", b =>
+            modelBuilder.Entity("HotelsViewer.Data.Entities.HotelFacility", b =>
                 {
-                    b.HasOne("HotelsViewer.Data.Entities.HotelFacility", "Facilities")
-                        .WithMany()
-                        .HasForeignKey("FacilitiesId");
+                    b.HasOne("HotelsViewer.Data.Entities.Hotel")
+                        .WithMany("Facilities")
+                        .HasForeignKey("HotelId");
+                });
 
-                    b.HasOne("HotelsViewer.Data.Entities.HotelImage", "Images")
-                        .WithMany()
-                        .HasForeignKey("ImagesId");
+            modelBuilder.Entity("HotelsViewer.Data.Entities.HotelImage", b =>
+                {
+                    b.HasOne("HotelsViewer.Data.Entities.Hotel")
+                        .WithMany("Images")
+                        .HasForeignKey("HotelId");
+                });
 
-                    b.HasOne("HotelsViewer.Data.Entities.HotelSurrounding", "Surroundings")
-                        .WithMany()
-                        .HasForeignKey("SurroundingsId");
+            modelBuilder.Entity("HotelsViewer.Data.Entities.HotelSurrounding", b =>
+                {
+                    b.HasOne("HotelsViewer.Data.Entities.Hotel")
+                        .WithMany("Surroundings")
+                        .HasForeignKey("HotelId");
                 });
 #pragma warning restore 612, 618
         }
