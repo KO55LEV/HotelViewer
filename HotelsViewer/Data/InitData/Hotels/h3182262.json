@@ -1,0 +1,211 @@
+{
+  "Id": "3182262",
+  "Name": "Amadeus Hotel",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/amadeus.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "3 Merab Aleksidze Street, Saburtalo, 0171 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Отель Amadeus расположен в Тбилиси, в 600 м от Тбилисского зоопарка и недалеко от Тбилисского театра оперы и балета, Тбилисского цирка и площади Героев. К услугам гостей бесплатный Wi-Fi, ресторан, круглосуточная стойка регистрации и билетная касса.\nВо всех номерах отеля Amadeus есть письменный стол, телевизор с плоским экраном, собственная ванная комната, кондиционер и шкаф.\nПо утрам для гостей сервируют континентальный завтрак.\nТеатр Руставели находится в 2,1 км от отеля, а площадь Свободы — в 2,9 км. Расстояние до международного аэропорта Тбилиси составляет 16 км. \n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139763025.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144752909.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144752913.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139844336.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139844515.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139844457.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143588825.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/132/132840910.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143588823.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139844397.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/139/139767258.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/143/143584028.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139844353.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/143/143581213.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143581207.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/144/144618259.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/144/144618300.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/143/143588826.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143581222.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143581227.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/143/143583150.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/143/143608921.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143607746.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143609470.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/143/143608795.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139767716.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139767722.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139767709.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144618863.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/144/144618882.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/144/144618719.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144618887.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144618532.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144618624.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144618856.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144676170.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144618399.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144676166.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144676160.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144676158.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144676157.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144676167.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/144/144752905.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144752906.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/144/144752907.jpg",
+    "https://s-ec.bstatic.com/data/landmark/840x460/899/89939.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Номера для некурящих",
+    "Допускается размещение домашних животных",
+    "Круглосуточная стойка регистрации"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Мост Царицы Тамары",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Политехнический Университет",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Стадион Динамо",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tеатр имени Марджанишвили",
+      "Distance": "1,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Сад Самайя",
+      "Distance": "1,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "NikoraСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "MacDonalds,Subway,Wedny&#39;sКафе&#47;бар",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "MachaxelaРесторан",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Дезертирский рынокРынок",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "MtkvariРека",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Turtle Lake Озеро",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "FunicularГора",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Tbilisi seaМоре&#47;океан",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "15,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "1,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "2,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "2,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "3,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "3,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Цминда Самеба",
+      "Distance": "3,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "3,6 км"
+    }
+  ]
+}

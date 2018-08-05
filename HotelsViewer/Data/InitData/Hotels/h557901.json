@@ -1,0 +1,192 @@
+{
+  "Id": "557901",
+  "Name": "Zedazeni Hotel",
+  "Town": "Mtskheta",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/zedazeni.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Tbilisi Highway 23&#47;800, 3302 Мцхета, Грузия",
+  "Descrip": "\n\n\n Отель Zedazeni расположен прямо на автомагистрали E117, которое соединяет Тбилиси и Леселидзе. Он находится в 6 км от Старого города Мцхеты. К услугам гостей бесплатные WiFi и частная парковка.\nВсе светлые номера имеют кондиционер и телевизор с плоским экраном. В ванной комнате предоставляются бесплатные туалетно-косметические принадлежности, тапочки, халаты и фен.\nВ ресторане готовят различные блюда грузинской кухни, а завтрак «шведский стол» накрывается за дополнительную плату.\nГости смогут покататься на велосипеде или верхом на лошади, а сотрудники экскурсионного бюро отеля помогут организовать различные туры с гидом.\nКафедральный собор Светицховели находится в 6 км от отеля Zedazeni, а расстояние до центра Тбилиси составляет 23 км.\nАвтобусная остановка расположена прямо напротив отеля, а расстояние до международного аэропорта Тбилиси составляет 50 км. За дополнительную плату для гостей организуют трансфер. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/845/84526311.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/119/119024048.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/710/71095627.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/710/71095983.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/710/71095994.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/710/71095934.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/705/70583730.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/710/71095991.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/714/71426433.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/177/17719275.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97663781.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97664032.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97666106.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664038.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664044.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/976/97664054.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97663809.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97663820.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97666115.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97663829.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97663535.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97662618.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97662620.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/976/97666117.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97662624.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97662627.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97660794.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97660807.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97660815.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/177/17738637.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97660822.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97660826.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97660839.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97662796.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/175/17517024.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/178/17888878.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/177/17719280.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97661310.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/714/71429428.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664329.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/715/71535317.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/976/97664338.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664362.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664372.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/976/97664345.jpg"
+  ],
+  "Facilities": [
+    "Бесплатная парковка",
+    "Бесплатный Wi-Fi",
+    "Семейные номера"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Сараджишвили",
+      "Distance": "10,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Драматический театр имени Ахметели",
+      "Distance": "10,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Театр Ахметели",
+      "Distance": "10,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гурамишвили",
+      "Distance": "11 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Грмагеле",
+      "Distance": "11,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "13,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "13,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Делиси",
+      "Distance": "15,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "15,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Важа-Пшавела",
+      "Distance": "15,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Tbilisi MallСупермаркет",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "AragviРека",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Jvari MonasteryГора",
+      "Distance": "10,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Zedazeni MonasteryГора",
+      "Distance": "12,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "lisiОзеро",
+      "Distance": "20,5 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "28,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "16,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "16,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "16,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "17 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "17,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "17,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "18 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "18,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "18,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "19,5 км"
+    }
+  ]
+}

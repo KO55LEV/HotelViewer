@@ -1,0 +1,235 @@
+{
+  "Id": "3120838",
+  "Name": "Apartment NM",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/apartament-tbilisi12345678910111213141516171819202122.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Besarion Jgenti Street 7a, floor 4, 21, 0322 Тбилиси, Грузия",
+  "Descrip": "\n\n\n  Хит продаж в Тбилиси! Апартаменты NM расположены в Тбилиси, в 5 км от Тбилисского зоопарка, а также в 7 км от Грузинского театра оперы и балета имени Палиашвили и площади Свободы.\nАпартаменты состоят из 1 спальни, гостиной с обеденной зоной, полностью оборудованной кухни и 1 ванной комнаты. В числе удобств телевизор с плоским экраном.\nПарк Ваке находится в 3,6 км от апартаментов, а Черепашья озеро — в 3,9 км. Расстояние до международного аэропорта Тбилиси составляет 21 км. \n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/132/132103264.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/132/132154981.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/132/132155039.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/132/132270884.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739500.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739505.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739507.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739511.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739520.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739526.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739533.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739548.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739553.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739555.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739559.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739574.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739581.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739589.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739603.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739617.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739629.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739658.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133739668.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739736.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133739765.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133740094.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133741636.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133768047.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/134/134625518.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141439505.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/141/141486343.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Бесплатная парковка",
+    "Отопление",
+    "Лифт",
+    "Кондиционер"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Важа-Пшавела",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Делиси",
+      "Distance": "1,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк ипподрома",
+      "Distance": "2,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Стадион имени Михаила Месхи",
+      "Distance": "2,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Ваке парк",
+      "Distance": "2,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "3,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "3,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Политехнический Университет",
+      "Distance": "4,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "4,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Alcorium&quot; Whiskey house&quot;Супермаркет",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "NikoraСупермаркет",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Ori nabiji Супермаркет",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "шато тбилисиРесторан",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Dunkin&#39; DonutsКафе&#47;бар",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "&quot; Шуа калаки&quot;Ресторан",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "гипермаркет &quot;Goodwill&quot;Рынок",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "шопинг центр &quot;City Mall&quot;Рынок",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Red caffe Кафе&#47;бар",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "TwinsКафе&#47;бар",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Lisi Lake Озеро",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "черепашее Озеро",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Tbilisi ZooГора",
+      "Distance": "4,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Тбилисский циркГора",
+      "Distance": "4,6 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Грузинский театр оперы и балетаГора",
+      "Distance": "6,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "мцхетаОзеро",
+      "Distance": "20 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "20,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "4,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "5,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "5,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "5,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "6,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "6,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "6,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "7,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "8 км"
+    }
+  ]
+}

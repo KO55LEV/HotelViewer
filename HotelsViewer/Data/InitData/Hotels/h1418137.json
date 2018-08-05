@@ -1,0 +1,218 @@
+{
+  "Id": "1418137",
+  "Name": "Apartment On Bakradze",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/apartment-on-bakradze.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Ul. Bakradze I tupik, 5, Вера, 0179 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Апартаменты «На Бакрадзе» расположены в районе Вера города Тбилиси, в 1 км от Тбилисского театра оперы и балета, в 1,1 км от зоопарка Тбилиси и в 1,2 км от театра Руставели. Эти апартаменты с бесплатным Wi-Fi расположены в 1,8 км от площади Свободы и в 300 м от концертного зала Тбилиси.\nВ апартаментах есть 1 спальня, телевизор с плоским экраном и спутниковыми каналами, оборудованная кухня с духовкой и микроволновой печью, стиральная машина и ванная комната с ванной.\nНациональная академия наук Грузии находится в 6 минутах ходьбы от апартаментов, а площадь Героев — в 11 минутах ходьбы. Расстояние до международного аэропорта Тбилиси составляет 15 км. \n\n\nВера — отличный выбор, если вам интересны еда, природа и гостеприимные люди.\n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/496/49658407.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/496/49658409.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/496/49658421.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/496/49658429.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/496/49658435.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/496/49658440.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/496/49658450.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58811420.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58811529.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58811803.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58811804.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812223.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812578.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812582.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58812679.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812689.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812693.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58812697.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812703.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812706.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58812720.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812740.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812838.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/588/58812840.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/588/58812844.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Семейные номера",
+    "Отопление",
+    "Кондиционер"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Руставели",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Сад Самайя",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Площадь Революции роз",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tеатр имени Марджанишвили",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Тбилисская телевышка",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Пантеон Мтацминда",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "The kitchenРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "LolitaРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "ManuРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Bar 9Кафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "ChaikhanaКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "SparСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Ori nabijiСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Ovoshnoi i fruktovii rinokРынок",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "&quot;Nikora&quot;Супермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "EntreeКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "MtacmindaГора",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "&quot; mtkvari&quot;Река",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Chepashee ozeroОзеро",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Ozero &quot; lisi&quot;Озеро",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "15,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "1,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "1,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "1,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "2,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "2,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "3 км"
+    }
+  ]
+}

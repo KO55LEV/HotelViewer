@@ -1,0 +1,173 @@
+{
+  "Id": "366108",
+  "Name": "Cruise Hotel",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/cruise.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Beliashvili Street 75, 0159 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Эта элегантная гостиница в морском стиле расположена на берегу реки Куры в Тбилиси. Здание гостиницы было смоделировано в виде круизного судна. К услугам гостей бесплатный Wi-Fi, терраса с видом на реку и массаж.\nСтильные номера гостиницы &quot;Круиз&quot; оборудованы балконами, некоторые из которых выходят на воду. Каждый номер оснащён звукоизоляцией, телевизором с плоским экраном и бесплатными туалетно-косметическими принадлежностями.\nВ ресторане гостиницы сервируется завтрак &quot;шведский стол&quot;, а также подаются блюда грузинской и европейской кухни. В баре предлагается большой выбор напитков и лёгких закусок, которыми можно насладиться на открытой террасе.\nДо Старого города Тбилиси - 15 минут езды. Там вы найдёте такие исторические достопримечательности, как собор Св. Георгия постройки 13 века и старинный банный район Абанотубани.\nГостиница &quot;Круиз&quot; находится в 5 минутах езды от центрального железнодорожного вокзала Тбилиси и в 20 минутах езды от аэропорта города. На территории гостиницы предоставляется бесплатная парковка. Предлагается трансфер от&#47;до аэропорта. \n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118608413.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/818/81865519.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/818/81862461.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/818/81868135.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/834/83498390.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608414.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608420.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/818/81862633.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608424.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118608254.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608261.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118608255.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608257.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118608260.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118608749.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/818/81869613.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/818/81869615.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/427/42757573.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/427/42757572.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/818/81865167.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/186/18687290.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/186/18687285.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/186/18687286.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/186/18687289.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/186/18687287.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/714/7146254.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/818/81862023.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/834/83498171.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/818/81860918.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/714/7145130.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/188/18857533.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/714/7145719.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/715/7151247.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/187/18705887.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/714/7147871.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/186/18643658.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/901/9011630.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/186/18643690.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/714/7147973.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/118/118608417.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/118/118608423.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118605949.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Номера для некурящих",
+    "Фитнес-центр",
+    "Допускается размещение домашних животных",
+    "Бар"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Грмагеле",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гурамишвили",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "2,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Сараджишвили",
+      "Distance": "2,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "2,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Драматический театр имени Ахметели",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Театр Ахметели",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Надзаладеви",
+      "Distance": "4,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Церетели",
+      "Distance": "4,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "4,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Cruise Ресторан",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "18,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "5,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "6,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "6,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "6,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "7,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "7,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "7,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "7,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "8,5 км"
+    }
+  ]
+}

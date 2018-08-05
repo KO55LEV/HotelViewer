@@ -1,0 +1,217 @@
+{
+  "Id": "325004",
+  "Name": "Tbilotel",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/tbilotel-tbilisi.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Daraselia Street 8, Saburtalo, 0160 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Эта гостиница находится в 5 минутах ходьбы от мэрии Тбилиси и в нескольких минутах езды от Старого города. В гостинице «Тбилотель» имеются конференц-зал на 50 человек и полностью оборудованный бизнес-центр. Также к услугам гостей бесплатная частная парковка и бесплатный Wi-Fi.\nВсе номера и люксы гостиницы «Тбилотель» оснащены кондиционером, холодильником и телевизором со спутниковыми каналами. Кроме того, в номерах установлены большие окна и имеется балкон. Стойка регистрации работает круглосуточно.\nПо утрам для гостей сервируется бесплатный завтрак. Также круглосуточно производится доставка еды и напитков в номер.\nВ 5 минутах ходьбы от отеля расположен футбольный стадион им. Бориса Пайчадзе и протекает река Кура. \n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max500/120/120751237.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/120/120751152.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751198.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751275.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/120/120751247.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751170.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751174.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751181.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751156.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751162.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/120/120751188.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751192.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751195.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751207.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751211.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751216.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751243.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751223.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751231.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/120/120751252.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751261.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/498/49833711.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751266.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751271.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/120/120751280.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/120/120751287.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Номера для некурящих",
+    "Круглосуточная стойка регистрации",
+    "Бар"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Политехнический Университет",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "1,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Церетели",
+      "Distance": "1,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "1,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк ипподрома",
+      "Distance": "1,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Стадион Динамо",
+      "Distance": "1,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Делиси",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "NikoraСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "IoliСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Saburtalo Рынок",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Chinese RestaurantРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Georgian RestaurantРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Entree CafeКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Biblus CafeКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "EuroproductСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Bernard PubРесторан",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Eliava Рынок",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "MtkvariРека",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "MtatsmindaГора",
+      "Distance": "2,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Lisi Озеро",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "17,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "2,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "2,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "3,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "3,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "3,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "4,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "4,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "5,3 км"
+    }
+  ]
+}

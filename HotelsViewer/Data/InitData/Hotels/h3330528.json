@@ -1,0 +1,245 @@
+{
+  "Id": "3330528",
+  "Name": "Travelers House",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/travelers-house.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Ketevan Dedofali Avenue 92 , 0144 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Гостевой дом Travelers House с общим лаунджем расположен в Тбилиси, в 3,2 км от площади Свободы, в 3,7 км от театра Руставели, в 6 км от Тбилисского зоопарка и в 2,2 км от церкви Метехи и Президентского дворца.\nВ номерах гостевого дома установлен шкаф для одежды. Предоставляется бесплатный Wi-Fi. В некоторых номерах установлен DVD-плеер.\nСобор Святого Георгия находится в 2,5 км от гостевого дома Travelers House. Расстояние до международного аэропорта Тбилиси составляет 11 км. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139999840.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/137/137568308.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140004032.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/139/139999605.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140004166.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003950.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/137/137568292.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/137/137568311.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140001701.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139998870.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140002534.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140002276.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140004628.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140003172.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140004682.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/140/140005123.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140268438.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/140/140004691.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/137/137568301.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139638581.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140004161.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140031270.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140031277.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003524.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003590.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140031349.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003644.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003694.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140031359.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140031208.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140031374.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140031309.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140003745.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140031091.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568335.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568295.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568329.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568312.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/137/137568340.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568298.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/137/137568289.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/140/140002162.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003674.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/140/140003729.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/140/140003773.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Номера для некурящих",
+    "Допускается размещение домашних животных",
+    "Отопление"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Исани",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро 300 Арагвели",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Ж/д станция Самгори",
+      "Distance": "1,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Авлабари",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Цминда Самеба",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Успенская церковь Метехи",
+      "Distance": "2,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Крепость Нарикала",
+      "Distance": "2,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "2,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "2,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Мост мира",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Agricultural market NavtlugiРынок",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "AlazaniРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Nikora supermarketСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "IsaniКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Dumplings - Пельменная Кафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Khinkali House in IsaniРесторан",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Machakhela SamikitnoРесторан",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "KFC IsaniКафе&#47;бар",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Carrefour IsaniСупермаркет",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Shopping center Supermarket IsaniСупермаркет",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Kura (Mtkvari)Река",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Mount MakhataГора",
+      "Distance": "4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Tbilisi Sea (Reservoirs)Озеро",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "TurtleОзеро",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "LisiОзеро",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "10,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "3,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "3,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "4,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "5,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "5,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "5,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "7,6 км"
+    }
+  ]
+}

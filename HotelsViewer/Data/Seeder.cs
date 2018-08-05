@@ -27,11 +27,27 @@ namespace HotelsViewer.Data
             if (!_ctx.Hotels.Any())
             {
                 //create sample data 
-                var filePath = Path.Combine(_hosting.ContentRootPath, "Data/InitData/Hotels.json");
-                var json = File.ReadAllText(filePath);
-                var hotels = JsonConvert.DeserializeObject<IEnumerable<Hotel>>(json);
-                _ctx.Hotels.AddRange(hotels);
-                _ctx.SaveChanges();
+                var directoryJsonSeedPath = Path.Combine(_hosting.ContentRootPath, "Data/InitData/Hotels");
+
+                if (Directory.Exists(directoryJsonSeedPath))
+                {
+                    DirectoryInfo jsonDir = new DirectoryInfo(directoryJsonSeedPath);
+                    FileInfo[] jsonFiles = jsonDir.GetFiles("*.json"); //Getting all json files
+                    foreach (FileInfo file in jsonFiles)
+                    {
+                        var jsonHotel = File.ReadAllText(file.FullName);
+                        dynamic hotelObj = JsonConvert.DeserializeObject(jsonHotel);
+
+                        //use mapper to map this dynamic object to data objects 
+
+
+                        //_ctx.Hotels.AddRange(hotels);
+                        //_ctx.SaveChanges();
+                    }
+
+                    
+                    
+                }
 
             }
 

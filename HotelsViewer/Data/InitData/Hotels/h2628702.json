@@ -1,0 +1,243 @@
+{
+  "Id": "2628702",
+  "Name": "RK Hotel",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/rk.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Kerchi Street N8, 0167 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Отель RK с казино и садом расположен в Тбилиси, в 9 км от Тбилисского зоопарка. К услугам гостей этого 4-звездочного отеля бесплатный Wi-Fi. В ресторане подают блюда местной кухни, а в баре можно заказать коктейли.\nВо всех номерах обустроена гостиная зона. Из некоторых номеров открывается вид на сад. Номера оснащены кондиционером и телевизором с плоским экраном.\nВ отеле RK предоставляются гладильные услуги, а также услуги факса и ксерокопирования. На стойке регистрации можно получить информацию о местных достопримечательностях. Сотрудники стойки регистрации говорят на немецком и английском языках.\nТбилисский театр оперы и балета и театр имени Шота Руставели находятся в 10 км от отеля. Расстояние до международного аэропорта Тбилиси составляет 19 км. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110864434.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/111/111033633.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110869530.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110865395.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/112/112908160.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110862372.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110868700.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110870459.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/110/110867851.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110864003.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/111/111032945.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110867361.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110863613.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110862832.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110870134.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110864932.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110865861.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110867572.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110866354.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110868288.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/110/110871136.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/110/110871486.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Номера для некурящих",
+    "Ресторан",
+    "Бар"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Драматический театр имени Ахметели",
+      "Distance": "0,8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Театр Ахметели",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Сараджишвили",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гурамишвили",
+      "Distance": "2,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Грмагеле",
+      "Distance": "3,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "5,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "5,8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Надзаладеви",
+      "Distance": "6,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Церетели",
+      "Distance": "7,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Центральный вокзал Тбилиси",
+      "Distance": "7,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Картли,АнтребатониРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Атриум, МачахелаРесторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Mcdonalds, KFC, WendysРесторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "MandarinКафе&#47;бар",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "City Mall &amp; CarrefourСупермаркет",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Gldani MallСупермаркет",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "National Bazar (georgian delicious)Рынок",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "National BazarРынок",
+      "Distance": "0,8 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Цисквили · TsiskviliКафе&#47;бар",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Чашнагири ChashnagiriКафе&#47;бар",
+      "Distance": "3,6 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "ТЦ &quot;Тбилиси&quot; Tbilisi MallСупермаркет",
+      "Distance": "3,7 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Кура Река",
+      "Distance": "2,4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Тбилисское мореМоре&#47;океан",
+      "Distance": "6,4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Аквапарк Море&#47;океан",
+      "Distance": "6,7 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Собор Святой Троицы (Цминда Самеба)Гора",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Старый город Old Town (Altstadt) TbilisiГора",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Озеро Лиси Lisi LakeОзеро",
+      "Distance": "8,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Памятник героям фильма Мимино Monument to Characters of Movie MiminoГора",
+      "Distance": "10,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Черепашье озеро Turtle LakeОзеро",
+      "Distance": "10,7 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "19 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "7,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "8,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "8,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "9,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "9,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "10,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "10,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "11 км"
+    }
+  ]
+}

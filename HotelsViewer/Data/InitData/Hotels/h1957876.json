@@ -1,0 +1,216 @@
+{
+  "Id": "1957876",
+  "Name": "Lemari apartment",
+  "Town": "Tbilisi City",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/gnlm-guest-house.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Chekhovi Street  4, Авлабари, 0103 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Апартаменты Lemari с кондиционером и бесплатным Wi-Fi расположены в районе Авлабари города Тбилиси, всего в 1 км от площади Свободы и в 1,6 км от театра имени Шота Руставели.\nВанная комната с ванной укомплектована бесплатными туалетно-косметическими принадлежностями. В числе удобств телевизор с плоским экраном.\nТбилисский театр оперы и балета находится в 1,8 км от апартаментов, а Тбилисский зоопарк — в 3,8 км. Расстояние от апартаментов Lemari до международного аэропорта Тбилиси составляет 13 км. \n\n\nАвлабари — отличный выбор, если вам интересны местная кухня, атмосфера и прогулки по городу.\n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676359.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78676360.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676361.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676362.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78676366.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78676368.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78676371.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78676374.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78676377.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78676379.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676380.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78676382.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78676385.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676386.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78676389.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676392.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78676395.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78676396.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78676399.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676401.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78676402.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/786/78682449.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/786/78682517.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78682592.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78682596.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/786/78682624.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78682630.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78682634.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/786/78682642.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/789/78941082.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/789/78941087.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/799/79952476.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952480.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952488.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952497.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952500.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952505.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952517.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952526.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952546.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/799/79952549.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/799/79952550.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952630.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952694.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952716.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952748.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952771.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952779.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952793.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952825.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/799/79952843.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952846.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/799/79952858.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79952867.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/799/79953917.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/800/80024875.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/800/80025293.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/800/80025316.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/800/80026123.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/821/82139035.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/822/82210022.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/822/82210046.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/822/82210049.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/822/82210052.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/108/108179550.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/108/108180009.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/108/108180519.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/108/108181663.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/108/108182704.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109900075.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109900658.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Номера для некурящих",
+    "Допускается размещение домашних животных"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Успенская церковь Метехи",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Авлабари",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Собор Сиони",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Мост мира",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Крепость Нарикала",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Цминда Самеба",
+      "Distance": "0,8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк Пушкина",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "kopalaРесторан",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "metexiКафе&#47;бар",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "marketСупермаркет",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "nariyalaГора",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "12,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "1,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "1,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "2,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "3,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "3,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "3,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "4,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "5,7 км"
+    }
+  ]
+}

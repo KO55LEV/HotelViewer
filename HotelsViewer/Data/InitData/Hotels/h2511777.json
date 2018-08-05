@@ -1,0 +1,225 @@
+{
+  "Id": "2511777",
+  "Name": "Hostel Verde",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/hostel-verde.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "6 Nino Chkheidze Street , Чугурети, 0102 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Хостел Verde с общим лаунджем и бесплатным Wi-Fi расположен в Тбилиси, в 900 м от театра Руставели и Тбилисского театра оперы и балета, в 1,2 км от площади Свободы и в 2,7 км от Тбилисского зоопарка. В окрестностях можно посетить Президентский дворец (в 11 минутах ходьбы) или собор Святой Троицы (в 12 минутах ходьбы).\nВсе номера хостела оснащены чайником. В числе удобств всех номеров общая ванная комната с душем, а в некоторых номерах есть кухня с микроволновой печью. Во всех номерах обустроена гостиная зона.\nГрузинская национальная академия наук находится в 16 минутах ходьбы от хостела Verde. Расстояние до международного аэропорта Тбилиси составляет 14 км. \n\n\nЧугурети — отличный выбор, если вам интересны Старый город, природа и гостеприимные люди.\n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105744876.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/112/112783622.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/138/138472701.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/138/138472709.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/138/138472625.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118343905.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118343727.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105744843.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118344672.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/118/118344275.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109826816.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/105/105743505.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105725849.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105726367.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/105/105743940.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/105/105724817.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109551329.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/112/112783492.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/112/112783645.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118343676.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/105/105742761.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/138/138472734.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/112/112920038.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/104/104616706.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/118/118345502.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Отопление",
+    "Прачечная",
+    "Кондиционер"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Дом Юстиции",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк 9 Апреля",
+      "Distance": "0,8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Кинотеатр Руставели",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Цминда Самеба",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк Пушкина",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Площадь свободы",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Марджанишвили",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "ori nabiji khetagurovi str T&#39;bilisiСупермаркет",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "House on Madatovi, 23 Davit Aghmashenebeli Ave, T&#39;bilisiРесторан",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Shavi Lomi • შავი ლომი, 28 Zurab Kvlividze Ресторан",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Books Cafe, 37 Mikheili Tsinamdzghvrishvili St, T&#39;bilisiКафе&#47;бар",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Fresco Chugureti, Arnold Chikobava St, T&#39;bilisiСупермаркет",
+      "Distance": "0,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Taverna Monadire, Tchorokhi Street, T&#39;bilisiРесторан",
+      "Distance": "0,9 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Fabrika Tbilisi, 8 Egnate Ninoshvili St, T&#39;bilisi 0102Кафе&#47;бар",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Entree, კოტე მარჯანიშვილის მოედანი, T&#39;bilisiКафе&#47;бар",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Carrefour Market, 3 Vekua Street, T&#39;bilisiСупермаркет",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "mtkvariРека",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Abanotubani, T&#39;bilisiГора",
+      "Distance": "2,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "National Botanical Garden of Tbilisi city,Гора",
+      "Distance": "3,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "TBILISI SEEОзеро",
+      "Distance": "5,6 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Lake LisiОзеро",
+      "Distance": "10,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Turtle LakeОзеро",
+      "Distance": "10,7 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "13,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "1,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "1,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Успенская церковь Метехи",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "1,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "1,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "2,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "2,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "2,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "4,4 км"
+    }
+  ]
+}

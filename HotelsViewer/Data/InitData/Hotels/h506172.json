@@ -1,0 +1,190 @@
+{
+  "Id": "506172",
+  "Name": "Dkd-bridge Hotel",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/dkd-bridge.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Khizanishvili Street 68, 0169 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Отель DKD-BRIDGE расположен в тихом жилом районе Тбилиси, в 10 минутах ходьбы от станции метро Akheteli. Гостям предоставляются бесплатный Wi-Fi и бесплатная частная парковка.\nВсе светлые номера оснащены кондиционером и телевизором. В ванной комнате предоставляются бесплатные туалетно-косметические принадлежности, тапочки и фен.\nРазличные рестораны, бары и кафе расположены в 10 минутах ходьбы от отеля. Каждое утро в отеле сервируется завтрак &quot;шведский стол&quot;, а в течение дня в баре можно заказать различные напитки.\nСтойка регистрации работает круглосуточно. В отеле DKD-BRIDGE обустроен тренажерный зал.\nРасстояние до Проспекта Руставели от отеля составляет 17 км, а поездка на машине до исторической части города Тбилиси занимает 20 минут. До международного аэропорта Тбилиси нужно проехать 27 км. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/161/16138443.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/137/137878958.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/134/134407405.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/134/134407106.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/134/134159719.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/133/133066170.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133066103.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133065902.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/133/133065858.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/127/127663957.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127663857.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/127/127663784.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127663228.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127663140.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127663055.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127662701.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127662412.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127661813.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/127/127660919.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/127/127660752.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127660728.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/127/127659696.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/127/127659067.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/127/127658929.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127658827.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127658728.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127658620.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/127/127658482.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/127/127658390.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127658286.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/127/127658194.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/127/127658134.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/127/127657803.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/137/137879613.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/137/137879538.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/134/134406810.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/134/134160261.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133066263.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/133/133066238.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133066219.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133066061.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133066025.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133065970.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133065946.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/133/133065875.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Номера для некурящих",
+    "Допускается размещение домашних животных"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Театр Ахметели",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Драматический театр имени Ахметели",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Сараджишвили",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гурамишвили",
+      "Distance": "3,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Грмагеле",
+      "Distance": "4,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "6,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Надзаладеви",
+      "Distance": "7,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Церетели",
+      "Distance": "8,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Центральный вокзал Тбилиси",
+      "Distance": "8,7 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "cosmosРесторан",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "LizyРынок",
+      "Distance": "0 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Wendy&#39;sКафе&#47;бар",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Gldani MallСупермаркет",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "18,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "9,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "9,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "10,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "10,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "10,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "11 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "11,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "11,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "11,9 км"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "Id": "1198322",
+  "Name": "Holiday House Spiridi",
+  "Town": "Batumi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/holiday-house-spiridi.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Kostava Street 11, 6000 Батуми, Грузия",
+  "Descrip": "\n\n\n Один из лучших вариантов, выбранных нами в городе Батуми.Дом для отпуска Spiridi с собственной кухней находится в центре Батуми, всего в 10 минутах ходьбы от Танцующих фонтанов и пляжа на побережье Черного моря. На всей территории предоставляется бесплатный WiFi.\nДом располагает 2 спальнями и гостиной зоной с диваном-кроватью, телевизором и кондиционером. Собственная ванная комната укомплектована бесплатными туалетно-косметическими принадлежностями.\nГости могут готовить собственные блюда на полностью оборудованной кухне с микроволновой печью и плитой. Кафе и рестораны расположены в нескольких минутах ходьбы.\nНа территории имеется бесплатная общественная парковка. Гостям дома для отпуска Spiridi предоставляется стиральная машина. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/382/38223192.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/382/38223193.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/382/38223229.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/382/38223246.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/382/38223253.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/382/38223320.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/382/38223350.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/446/44605483.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67789992.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790001.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/677/67790078.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/677/67790172.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790191.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790211.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790689.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790700.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790706.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/677/67790714.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790741.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/677/67790743.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/785/78565211.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/785/78565212.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/785/78565213.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/131/131193307.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/131/131193401.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/131/131297875.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Отопление",
+    "Кондиционер"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Пьяцца",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Площадь Европы",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Собор Рождества Пресвятой Богородицы",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк чудес",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Алфавитная башня",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Археологический музей Батуми",
+      "Distance": "1,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Порт Батуми",
+      "Distance": "1,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Канатная дорога Арго",
+      "Distance": "1,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Дельфинарий",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Аквапарк",
+      "Distance": "3,4 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Ресторан Шемоихеде Ресторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Церковь Святого НиколаяРынок",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "  Ресторан МиминоРесторан",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Площадь ПьяццаСупермаркет",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "  Армянская Апостольская ЦерковьСупермаркет",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "  Кинотеатр ApolloКафе&#47;бар",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "  Астрологические Часы Кафе&#47;бар",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "супермаркетСупермаркет",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Батумский Драмматический ТеатрРынок",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "  Ресторан СанапироРесторан",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Кафе «Привет Из Батума»Кафе&#47;бар",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "плазаРынок",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Ресторан УкраинаРека",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Винный Магазин KharebaОзеро",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "черное мореМоре&#47;океан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Башня ЧачиГора",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "  Батумский Морской Порт  Озеро",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "  Кафе Порто-ФранкоРека",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "  Винный Магазин DaneliaОзеро",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Гостиница РэдисонГора",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "  Ресторан БременРека",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Башня Грузинского АлфавитаГора",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Batumi International Airport",
+      "Distance": "5,5 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Kutaisi International Airport",
+      "Distance": "91,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Железнодорожный вокзал Махинджаури",
+      "Distance": "5,5 км"
+    }
+  ]
+}

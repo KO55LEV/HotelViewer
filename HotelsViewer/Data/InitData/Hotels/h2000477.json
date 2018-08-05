@@ -1,0 +1,255 @@
+{
+  "Id": "2000477",
+  "Name": "Jikia Bright Apartment",
+  "Town": "Tbilisi",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/jikia-house.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Ana Politkovskaia str 3, Saburtalo, 0186 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Недавно отремонтированные светлые апартаменты Jikia Bright расположены в фешенебельном районе Пош Сабуртало. К услугам гостей охраняемые ворота с охраняемыми воротами. На территории обустроена частная парковка.\nВ спальнях установлена двуспальная кровать. В числе удобств — гостиная с диваном-кроватью, просторный балкон, центральное отопление, кондиционер, холодильник, духовка, Wi-Fi, а также телевизор со светодиодной подсветкой и кабельными каналами.\nМножество ресторанов и кафе, где подают местные деликатесы штата Джорджия, находится в 300 м от апартаментов.\nГосударственный университет находится в 4 минутах ходьбы. Площадь Свободы находится в 9,4 км от апартаментов Jikia Bright, а площадь Героев — в 7,3 км. Расстояние до международного аэропорта Тбилиси составляет 27 км. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max500/808/80873138.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/808/80873151.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87843709.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/878/87843833.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87843883.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87843939.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/878/87844028.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87844048.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87844103.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87844211.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87844241.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/878/87844272.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/878/87844311.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/903/90388665.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/903/90389375.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/919/91907764.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/103/103714883.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103715067.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/103/103715132.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103715326.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/103/103715396.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/103/103715602.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103715748.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103718123.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103718157.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/103/103718275.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103918647.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103919195.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/103/103919204.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103919214.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/103/103919265.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/103/103919367.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/106/106499109.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/119/119017120.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017123.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017125.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/119/119017126.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/119/119017129.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/119/119017131.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017133.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/119/119017141.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017310.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/119/119017340.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017342.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119017344.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/119/119181306.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/119/119181307.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119181309.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/119/119181311.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/119/119181314.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бассейн",
+    "Бесплатная парковка",
+    "Номера для некурящих",
+    "Открытый плавательный бассейн"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Важа-Пшавела",
+      "Distance": "1,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Делиси",
+      "Distance": "2,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Стадион имени Михаила Месхи",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Парк ипподрома",
+      "Distance": "2,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Ваке парк",
+      "Distance": "3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "3,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Turtle Lake",
+      "Distance": "3,8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "4,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Политехнический Университет",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Zgapari MarketРынок",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Dunkin Donuts Кафе&#47;бар",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Cafe StradaКафе&#47;бар",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "AmraРесторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Metro station : State University Ресторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Fresko MarketСупермаркет",
+      "Distance": "0,5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Qalaquri Georgian Traditional Restaurant Ресторан",
+      "Distance": "0,6 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Goodwill Рынок",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "&quot;City Mall Saburtalo &quot;Рынок",
+      "Distance": "2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Jikia  swimming pool Гора",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Ochtopus gymГора",
+      "Distance": "0,2 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Lisi lakeОзеро",
+      "Distance": "5,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Turtle lakeОзеро",
+      "Distance": "7,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Europe Square Горнолыжный подъемник",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Mtatsminda park Гора",
+      "Distance": "15 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "Tbilisi SeaМоре&#47;океан",
+      "Distance": "20 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "21,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "5,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "5,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "5,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "5,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "6,4 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "6,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "7,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "8,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "8,3 км"
+    }
+  ]
+}

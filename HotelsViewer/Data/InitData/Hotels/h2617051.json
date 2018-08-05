@@ -1,0 +1,197 @@
+{
+  "Id": "2617051",
+  "Name": "Hotel Gold",
+  "Town": "Tbilisi City",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/gold-tbilisi-city.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "Zgvis Mimdinare territory 337, Varketili, 0100 Тбилиси, Грузия",
+  "Descrip": "\n\n\n До пляжа можно дойти всего за 12 минут. Отель Gold расположен в Тбилиси, в 9 км от площади Свободы и в 9 км от театра Руставели. К услугам гостей сад, бесплатный Wi-Fi и номера с собственной ванной комнатой и телевизором с плоским экраном и спутниковыми каналами.\nВсе номера отеля Gold оснащены шкафом для одежды. Из некоторых номеров открывается вид на море, а в номерах есть чайник. Все номера оснащены тостером.\nКаждое утро в отеле сервируется завтрак «шведский стол».\nСотрудники стойки регистрации предоставят гостям информацию о местных достопримечательностях.\nТбилисский театр оперы и балета находится в 9 км от отеля Gold. Расстояние до международного аэропорта Тбилиси составляет 8 км. \n\n",
+  "Images": [
+    "https://t-ec.bstatic.com/images/hotel/max500/136/136533489.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786819.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786835.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786832.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786859.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786848.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786831.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/110/110287102.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786817.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786815.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/110/110189689.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/110/110189692.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max500/110/110189696.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786843.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786842.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786829.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786846.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786841.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110237721.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786809.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786811.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786813.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786854.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786851.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786810.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786845.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786820.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786818.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786816.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786822.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786825.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786826.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786827.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786833.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786836.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786838.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786840.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786850.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786852.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/109/109786853.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786856.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/109/109786858.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бесплатная парковка",
+    "Семейные номера",
+    "Круглосуточная стойка регистрации",
+    "Сад"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Варкетили",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Платформа 3-й км",
+      "Distance": "4,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Ж/д станция Самгори",
+      "Distance": "5,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Исани",
+      "Distance": "6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро 300 Арагвели",
+      "Distance": "6,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Цминда Самеба",
+      "Distance": "7,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Авлабари",
+      "Distance": "7,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Президентский дворец",
+      "Distance": "7,7 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Успенская церковь Метехи",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Дом Юстиции",
+      "Distance": "8 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "KIZIKURAРесторан",
+      "Distance": "0,1 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Carrefour GeorgiaКафе&#47;бар",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "Carrefour GeorgiaСупермаркет",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "SAMGORIРынок",
+      "Distance": "15 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "KURAРека",
+      "Distance": "10 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "CHEREPASHIE OZERAОзеро",
+      "Distance": "25 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "7,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Собор Святого Георгия",
+      "Distance": "8,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "8,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "8,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "8,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский ботанический сад",
+      "Distance": "8,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "9,1 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "9,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "9,5 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "10,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "11,1 км"
+    }
+  ]
+}

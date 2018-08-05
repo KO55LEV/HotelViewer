@@ -1,0 +1,312 @@
+{
+  "Id": "1930302",
+  "Name": "Villa Red House",
+  "Town": "Tbilisi City",
+  "OriginalUrl": "http://www.booking.com/hotel/ge/villa-red-house.html?aid=1427609&no_rooms=1&group_adults=1&lang=ru",
+  "Address": "56 Rostevani Street, 0159 Тбилиси, Грузия",
+  "Descrip": "\n\n\n Вилла Red House с сезонным открытым бассейном и садом расположена в Тбилиси, в 7 км от Тбилисского зоопарка и в 9 км от Грузинского театра оперы и балета имени Палиашвили и Грузинского государственного академического театра имени Шота Руставели.\nВилла располагает 5 спальнями, телевизором с плоским экраном и спутниковыми каналами, а также полностью оборудованной кухней с посудомоечной машиной и духовкой. В числе удобств кондиционер и ванная комната с гидромассажной ванной и стиральной машиной.\nВилла располагает террасой. Гости могут взять напрокат автомобиль.\nВилла Red House находится в 10 км от площади Свободы. Расстояние до международного аэропорта Тбилиси составляет 20 км. \n\n",
+  "Images": [
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292129.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292135.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292149.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292156.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292161.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292162.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292165.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292173.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292175.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292188.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292191.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292198.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292199.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292206.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292210.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292215.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292218.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292222.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292226.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292229.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292234.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292241.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292244.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292250.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292252.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292259.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292264.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292270.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292275.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292279.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292287.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292291.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292292.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292296.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292297.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292299.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292306.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292309.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292310.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77292316.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292317.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77292320.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77295909.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77295998.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77296695.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77296790.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77296856.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77297054.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/772/77297078.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/772/77297184.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/804/80437199.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105876672.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/105/105876676.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/108/108289138.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/110/110790601.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/111/111079380.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/111/111080265.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841952.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841954.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841958.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841960.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841963.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841965.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841970.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841971.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841972.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841977.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841979.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841980.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841982.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841985.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841989.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115841994.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841997.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841998.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115841999.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842000.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842001.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842002.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842005.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842010.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842011.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842012.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842013.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842014.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842016.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842017.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842018.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842021.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842024.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842029.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842351.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/115/115842352.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842353.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842355.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115842357.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115843387.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max500/139/139343108.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343123.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343125.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343126.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343551.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343557.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343559.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343563.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343567.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343571.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343574.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343577.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343580.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343584.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343587.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343592.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343595.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343596.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343598.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343600.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343602.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343603.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343605.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343609.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343610.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343611.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343612.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343613.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343615.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343617.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343618.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343621.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343622.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343623.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343625.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343628.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343631.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343633.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343636.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343638.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343639.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343642.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343643.jpg",
+    "https://t-ec.bstatic.com/images/hotel/max1024x768/139/139343645.jpg",
+    "https://s-ec.bstatic.com/images/hotel/max1024x768/139/139343648.jpg"
+  ],
+  "Facilities": [
+    "Бесплатный Wi-Fi",
+    "Трансфер от/до аэропорта",
+    "Бассейн",
+    "Бесплатная парковка",
+    "Номера для некурящих",
+    "Допускается размещение домашних животных"
+  ],
+  "Surroundings": [
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Грмагеле",
+      "Distance": "2,3 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гурамишвили",
+      "Distance": "2,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Сараджишвили",
+      "Distance": "3,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Дидубе",
+      "Distance": "3,1 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Гоциридзе",
+      "Distance": "3,9 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Драматический театр имени Ахметели",
+      "Distance": "4,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Театр Ахметели",
+      "Distance": "4,6 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Medical University Metro Station",
+      "Distance": "5,2 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Надзаладеви",
+      "Distance": "5,4 км"
+    },
+    {
+      "Category": "Ближайшие достопримечательности",
+      "Name": "Станция метро Церетели",
+      "Distance": "5,6 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "gagraРесторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "iberiaРесторан",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "imeretinskii dvorКафе&#47;бар",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "libreСупермаркет",
+      "Distance": "0,3 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "monopolРесторан",
+      "Distance": "0,4 км"
+    },
+    {
+      "Category": "Рестораны, магазины и рынки",
+      "Name": "dighomiРынок",
+      "Distance": "1 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "kuraРека",
+      "Distance": "1,5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "djvariГора",
+      "Distance": "5 км"
+    },
+    {
+      "Category": "Природа",
+      "Name": "tbiliskoe moreОзеро",
+      "Distance": "7 км"
+    },
+    {
+      "Category": "Ближайшие аэропорты",
+      "Name": "Международный аэропорт Тбилиси",
+      "Distance": "20,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Sports Palace",
+      "Distance": "6,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Тбилисский цирк",
+      "Distance": "6,9 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tbilisi Zoo",
+      "Distance": "7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь героев",
+      "Distance": "7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Концертный зал Тбилиси",
+      "Distance": "7,7 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Национальная академия наук Грузии",
+      "Distance": "8,2 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Vake Park",
+      "Distance": "8,3 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Грузинский театр оперы и балета",
+      "Distance": "8,6 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Tеатр имени Шота Руставели",
+      "Distance": "8,8 км"
+    },
+    {
+      "Category": "Самые популярные достопримечательности",
+      "Name": "Площадь свободы",
+      "Distance": "9,5 км"
+    }
+  ]
+}
