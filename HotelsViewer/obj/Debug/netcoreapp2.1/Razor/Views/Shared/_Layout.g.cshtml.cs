@@ -54,7 +54,7 @@ using HotelsViewer.Data.Entities;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a5af5ba8496e41349b0b92ef27275f35", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3aefe61faaa14e4e8aaa9bf473cc67d1", async() => {
                 BeginContext(31, 69, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <title>Hotel Viewer App</title>\r\n");
                 EndContext();
@@ -74,7 +74,7 @@ using HotelsViewer.Data.Entities;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(109, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fca8713042c3425bb6b11bdef5147f83", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6bf953b48b344408982422cb30af2fb4", async() => {
                 BeginContext(115, 6, true);
                 WriteLiteral("\r\n  \r\n");
                 EndContext();

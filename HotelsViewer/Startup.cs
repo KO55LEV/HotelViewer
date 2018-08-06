@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using HotelsViewer.Data;
+using HotelsViewer.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -30,6 +31,9 @@ namespace HotelsViewer
             services.AddDbContext<HotelsViewerDbContext>(
                 cfg => cfg.UseSqlServer(_config.GetConnectionString("SqlConnection"))
                 );
+
+
+            services.AddTransient<IMailService, MailService>();
 
             //Add automapper Dependecy
             services.AddAutoMapper();
