@@ -27,5 +27,8 @@ namespace HotelsViewer.Controllers
             _mailService.SendMessage("test@test.com" , "Index Page" , "Generated");
             return View(resutls);
         }
+
+
+
     }
 }
